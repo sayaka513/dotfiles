@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = syk513@yahoo.co.jp
+	name = Sayaka Tajima
